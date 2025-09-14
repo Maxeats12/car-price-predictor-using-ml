@@ -62,7 +62,7 @@ print(car_dataset.Transmission.value_counts())
 
 # In[8]:
 
-
+#encode_categorical_features()
 # encoding "Fuel_type" Column
 car_dataset.replace({'Fuel_Type':{'Petrol':0,'Diesel':1,'CNG':2}},inplace=True)
 
@@ -94,6 +94,14 @@ X= car_dataset.drop(['Car_Name','Selling_Price'],axis=1)
 Y= car_dataset['Selling_Price']
 
 
+"""
+Visualization Utilities for Car Price Prediction
+===============================================
+
+This module provides comprehensive visualization functions for automotive
+price prediction analysis, model performance, and data exploration.
+"""
+
 # In[11]:
 
 
@@ -105,10 +113,10 @@ print(Y)
 
 # In[12]:
 
-
+#cross-validation
 X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.1, random_state=2)
 
-
+#
 # #Model Training
 
 # #1.Linear REgression
