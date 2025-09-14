@@ -105,10 +105,10 @@ print(Y)
 
 # In[12]:
 
-
+#cross-validation
 X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.1, random_state=2)
 
-
+#
 # #Model Training
 
 # #1.Linear REgression
