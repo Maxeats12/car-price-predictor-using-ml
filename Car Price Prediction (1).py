@@ -94,6 +94,14 @@ X= car_dataset.drop(['Car_Name','Selling_Price'],axis=1)
 Y= car_dataset['Selling_Price']
 
 
+"""
+Visualization Utilities for Car Price Prediction
+===============================================
+
+This module provides comprehensive visualization functions for automotive
+price prediction analysis, model performance, and data exploration.
+"""
+
 # In[11]:
 
 
