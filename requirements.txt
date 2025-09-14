@@ -1,0 +1,43 @@
+# Core Dependencies for Car Price Prediction System
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Model Persistence and Evaluation
+joblib>=1.1.0
+pickle-mixin>=1.0.2
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Statistical Analysis
+scipy>=1.7.0
+statsmodels>=0.13.0
+
+# Development Dependencies
+pytest>=6.0.0
+pytest-cov>=3.0.0
+flake8>=4.0.0
+black>=22.0.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Performance Monitoring
+memory-profiler>=0.60.0
+psutil>=5.8.0
+
+# Additional ML Libraries
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Data Processing
+openpyxl>=3.0.0
+xlrd>=2.0.0
